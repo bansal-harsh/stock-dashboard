@@ -1,5 +1,5 @@
-This is readme for stock dashboard.
-The project is for user to make watchlist and watch their portfolio.
-This is hosted on docker, reddis and mongo db as database locally.
+This is the readme for the stock dashboard.
+The project is for users to make a watchlist and watch their portfolio.
+This is hosted on Docker, and MongoDB as a database locally.
 
-Coomit just making streak day36- highest streak continuing
+Commit just making streak day 36- highest streak continued!!
