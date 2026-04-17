@@ -2,4 +2,4 @@ This is the readme for the stock dashboard.
 The project is for users to make a watchlist and watch their portfolio.
 This is hosted on Docker, and MongoDB as a database locally.
 
-Commit just making streak day 47 and 193 contris - really, let's go, the highest streak continues!! 
+Commit just making streak day 48 and 195 contris - really, let's go, the highest streak continues!! 
